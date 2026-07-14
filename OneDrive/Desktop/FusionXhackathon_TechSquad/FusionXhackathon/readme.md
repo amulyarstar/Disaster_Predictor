@@ -1,4 +1,4 @@
-# 🌍 TECH SQUAD: AI Disaster Command Center
+# 🌍 AI Disaster Command Center
 
 ### Intelligent Early Warning System for Floods & Heatwaves
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Overview
 
-**TECH SQUAD** is an AI-powered disaster prediction system that analyzes real-time environmental data to forecast **floods** and **heatwaves**.
+** AI-powered disaster prediction system that analyzes real-time environmental data to forecast **floods** and **heatwaves**.
 
 It enables early warnings so communities can take action before disasters strike.
 
